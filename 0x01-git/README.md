@@ -1,2 +1,3 @@
 my first readme
-updated the readme hehe 
+updated the readme from the githup hehe 
+
